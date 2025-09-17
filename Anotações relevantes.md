@@ -1,0 +1,10 @@
+# Prompt Utilizado
+Sou um estagiário, na área de desenvolvimento e gostaria de fazer um PDI no método [[Smart]] e/ou [[Learning model]] falando sobre estar apto em 3 meses sobre o básico da linguagem de programação AdvPL e a partir disso estar apto a começar a desenvolver tarefas de baixa complexidade.
+
+### **PDI no Método [[SMART]]**
+
+O método **SMART** ajuda a definir metas claras e alcançáveis. 
+
+### **PDI no Método [[Learning model]]**
+
+O Learning model complementa o SMART, focando em como você vai aprender. A maior parte do seu aprendizado virá da prática.
